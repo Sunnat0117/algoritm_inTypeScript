@@ -1,0 +1,27 @@
+{
+  "name": "algoritm_intypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node build/main.js",
+    "dev": "ts-node-dev src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunnat0117/algoritm_inTypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunnat0117/algoritm_inTypeScript/issues"
+  },
+  "homepage": "https://github.com/Sunnat0117/algoritm_inTypeScript#readme",
+  "dependencies": {
+    "@types/node": "^18.11.9"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
